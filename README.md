@@ -96,7 +96,7 @@ _I'm learning these technologies and stacks._
 <p>
   <a href="https://github.com/PeroX-Coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
   <!-- Add only profiles you actively use. -->
-  <a href:"mailto:"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder rekore200@gmail.com" /></a>
+  <a href:"mailto:"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" alt=rekore200@gmail.com /></a>
 </p>
 
 ---
