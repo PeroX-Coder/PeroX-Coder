@@ -28,7 +28,7 @@ Hey, I'm **PeroX-Coder** 👋
 I'm an **AI & Full-Stack Developer in progress**, learning by building projects, experimenting with new tools, and turning ideas into useful software.
 
 - 🔭 **Building:** [...]
-- 🌱 **Learning:** [C, JavaScript, HTML, Python, React]
+- 🌱 **Learning:** [C, JavaScript, HTML, Python, React, Node.js, Git]
 - 🧪 **Exploring:** AI-powered apps, web development, and automation
 - 🎯 **Goal:** Ship useful projects, understand how they work, and keep improving
 - 🤝 **Open to:** Collaboration, feedback, and interesting project ideas
@@ -61,10 +61,9 @@ _These are starter examples marked “Exploring.” Keep only technologies you h
       <a href="https://github.com/PeroX-Coder/LumoCoder">View repository ↗</a>
     </td>
     <td width="50%">
-      <h3>🌐 [WEB APP NAME]</h3>
-      <p>[Describe a web app you built, the main feature, and what you learned.]</p>
-      <p><code>[TECH 1]</code> <code>[TECH 2]</code></p>
-      <a href="https://github.com/PeroX-Coder/[REPOSITORY-TWO]">View repository ↗</a>
+      <h3>🌐 VibeStack</h3>
+      <p>Aesthetic and cool, also working Monaco Code Editor Project with smooth transtions.</p>
+      <a href="https://github.com/PeroX-Coder/VibeStack">View repository ↗</a>
     </td>
   </tr>
   <tr>
