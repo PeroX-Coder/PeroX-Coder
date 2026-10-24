@@ -68,10 +68,9 @@ _These are starter examples marked “Exploring.” Keep only technologies you h
   </tr>
   <tr>
     <td width="50%">
-      <h3>🧰 [TOOL OR EXPERIMENT]</h3>
-      <p>[A small tool, automation, open-source contribution, or learning experiment.]</p>
-      <p><code>[TECH 1]</code> <code>[TECH 2]</code></p>
-      <a href="https://github.com/PeroX-Coder/[REPOSITORY-THREE]">View repository ↗</a>
+      <h3>🧰 Arzo</h3>
+      <p>A learning experiment with my own AI Website Builder.</p>
+      <a href="https://github.com/PeroX-Coder/Arzo">View repository ↗</a>
     </td>
     <td width="50%">
       <h3>🛠️ Next up</h3>
