@@ -71,7 +71,7 @@ _I'm learning these technologies and stacks._
   <tr>
     <td width="50%">
       <h3>🧰 Arzo</h3>
-      <p>A learning experiment with my own AI Website Builder.</p>
+      <p>A learning experiment with my ChatGPT Codex.</p>
       <a href="https://github.com/PeroX-Coder/Arzo">View repository ↗</a>
     </td>
     <td width="50%">
