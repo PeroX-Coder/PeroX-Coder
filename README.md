@@ -56,7 +56,7 @@ _These are starter examples marked “Exploring.” Keep only technologies you h
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 [LumoCoder]</h3>
+      <h3>🤖 LumoCoder</h3>
       <p>An AI Vibe Coder built in Google AI Studio. Use Gemini Models to build apps in lumoCoder.</p>
       <a href="https://github.com/PeroX-Coder/LumoCoder">View repository ↗</a>
     </td>
