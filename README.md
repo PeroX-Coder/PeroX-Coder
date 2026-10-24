@@ -94,9 +94,15 @@ _I'm learning these technologies and stacks._
 ## 🤝 Connect
 
 <p>
-  <a href="https://github.com/PeroX-Coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
-  <!-- Add only profiles you actively use. -->
-  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="16" alt="Gmail logo"> Mail me on : rekore200@gmail.com
+  <a href="https://github.com/PeroX-Coder">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
+  </a>
+</p>
+
+<p>
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="16" alt="Gmail logo">
+  Mail me on : rekore200@gmail.com
+</p>
 
 
 
