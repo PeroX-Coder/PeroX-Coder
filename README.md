@@ -90,14 +90,6 @@ _I'm learning these technologies and stacks._
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeroX-Coder&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1" alt="Most-used languages for PeroX-Coder" />
 </p>
 
-## 🧭 Current Mission
-
-| | |
-|---|---|
-| 🧪 **Building** | [CURRENT PROJECT OR EXPERIMENT] |
-| 🌱 **Learning** | [CURRENT LEARNING GOAL] |
-| 🧠 **Exploring** | AI, product thinking, and full-stack engineering |
-| 🚀 **Next milestone** | [A REALISTIC GOAL YOU WANT TO REACH] |
 
 ## 🤝 Connect
 
