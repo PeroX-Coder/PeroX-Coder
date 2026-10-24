@@ -27,6 +27,8 @@ Hey, I'm **PeroX-Coder** 👋
 
 I'm an **AI & Full-Stack Developer in progress**, learning by building projects, experimenting with new tools, and turning ideas into useful software.
 
+I'm a 13 years old boy with limitless curiosity behind the AI Metaverse and AI/ML Technologies!
+
 - 🔭 **Building:** [...]
 - 🌱 **Learning:** [C, JavaScript, HTML, Python, React, Node.js, Git]
 - 🧪 **Exploring:** AI-powered apps, web development, and automation
@@ -37,7 +39,7 @@ I'm an **AI & Full-Stack Developer in progress**, learning by building projects,
 
 ## ⚡ Tech Stack
 
-_These are starter examples marked “Exploring.” Keep only technologies you have actually tried, and change the badge text to match your real experience._
+_I'm learning these technologies and stacks._
 
 <p>
   <!-- Starter badges: remove anything you have not tried yet. -->
