@@ -21,7 +21,7 @@
 
 ---
 
-## `> whoami`
+## `> WHO AM I?`
 
 Hey, I'm **PeroX-Coder** 👋
 
