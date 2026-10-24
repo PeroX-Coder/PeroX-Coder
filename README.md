@@ -27,8 +27,8 @@ Hey, I'm **PeroX-Coder** 👋
 
 I'm an **AI & Full-Stack Developer in progress**, learning by building projects, experimenting with new tools, and turning ideas into useful software.
 
-- 🔭 **Building:** [CURRENT PROJECT]
-- 🌱 **Learning:** [TECHNOLOGIES YOU'RE LEARNING]
+- 🔭 **Building:** [...]
+- 🌱 **Learning:** [C, JavaScript, HTML, Python, React]
 - 🧪 **Exploring:** AI-powered apps, web development, and automation
 - 🎯 **Goal:** Ship useful projects, understand how they work, and keep improving
 - 🤝 **Open to:** Collaboration, feedback, and interesting project ideas
@@ -56,10 +56,9 @@ _These are starter examples marked “Exploring.” Keep only technologies you h
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 [AI PROJECT NAME]</h3>
-      <p>[One or two sentences explaining the problem it solves and what makes it interesting.]</p>
-      <p><code>[TECH 1]</code> <code>[TECH 2]</code> <code>[TECH 3]</code></p>
-      <a href="https://github.com/PeroX-Coder/[REPOSITORY-ONE]">View repository ↗</a>
+      <h3>🤖 [LumoCoder]</h3>
+      <p>[An AI Vibe Coder built in Google AI Studio. Use Gemini Models to build apps in lumoCoder.]</p>
+      <a href="https://github.com/PeroX-Coder/LumoCoder">View repository ↗</a>
     </td>
     <td width="50%">
       <h3>🌐 [WEB APP NAME]</h3>
