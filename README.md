@@ -30,7 +30,7 @@ I'm an **AI & Full-Stack Developer in progress**, learning by building projects,
 I'm a 13 years old boy with limitless curiosity behind the AI Metaverse and AI/ML Technologies!
 
 - 🔭 **Building:** [...]
-- 🌱 **Learning:** [C, JavaScript, HTML, Python, React, Node.js, Git]
+- 🌱 **Learning:** C, JavaScript, HTML, Python, React, Node.js, Git
 - 🧪 **Exploring:** AI-powered apps, web development, and automation
 - 🎯 **Goal:** Ship useful projects, understand how they work, and keep improving
 - 🤝 **Open to:** Collaboration, feedback, and interesting project ideas
